@@ -16,9 +16,9 @@ def mul(value1,value2):
     return sol
      
 # divison method
-def div(value1,value2):
-    sol = value1/value2
-    return sol
+# def div(value1,value2):
+#     sol = value1/value2
+#     return sol
 
 
 
